@@ -254,7 +254,7 @@ Tested on synthetic datasets:
 
 ---
 
-## 👤Author
+## Author
 
 **Teja**
 
